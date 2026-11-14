@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">JPlessonArtSpaceApp</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="description1">Sailing under the bridge</string>
+    <string name="location1">Kat Kuan(2007)</string>
+    <string name="location2">Kat Kuan(2008)</string>
+    <string name="location3">Kat Kuan(2009)</string>
+    <string name="location4">Kat Kuan(2010)</string>
+    <string name="location5">Kat Kuan(2011)</string>
+    <string name="description2">Description2 </string>
+    <string name="description3">Description3 </string>
+    <string name="description4">Description4 </string>
+    <string name="description5">Description5 </string>
+</resources>
